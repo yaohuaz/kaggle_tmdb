@@ -1,4 +1,4 @@
-# kaggle_tmdb
+# Kaggle: TMDB Box Office Prediction
 Notebook and data from Kaggle competition: TMDB Movie Box Office Prediction
 Description from Kaggle.com
 https://www.kaggle.com/c/tmdb-box-office-prediction
